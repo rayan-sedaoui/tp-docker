@@ -18,9 +18,10 @@ Ce projet est un Travaux Pratique (TP) visant à conteneuriser une application J
 <img width="533" height="968" alt="Screenshot 2026-03-24 023138" src="https://github.com/user-attachments/assets/d8449d94-2a31-4f90-abb5-209e929ae448" />
 
 #### Architecture du projet
-# Dockerfile : Définit l'image de l'application Java basée sur eclipse-temurin:17-jdk-alpine.
 
-# docker-compose.yml : Gère le déploiement simultané de l'application et de MySQL, incluant la configuration du réseau et des variables d'environnement.
+Dockerfile : Définit l'image de l'application Java basée sur eclipse-temurin:17-jdk-alpine.
+
+docker-compose.yml : Gère le déploiement simultané de l'application et de MySQL, incluant la configuration du réseau et des variables d'environnement.
 
 <img width="1919" height="1006" alt="Screenshot 2026-03-24 023409" src="https://github.com/user-attachments/assets/bdc9f6ee-93b7-4174-aa68-11e00c40090b" />
 
